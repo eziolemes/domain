@@ -1,3 +1,15 @@
+# Project File
+.classpath
+.project
+HELP.md
+mvnw
+mvnw.cmd
+
+# Project Folder
+.mvn/
+.settings/
+target/
+
 # Compiled class file
 *.class
 
